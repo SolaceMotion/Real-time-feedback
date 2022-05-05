@@ -1,0 +1,21 @@
+{
+  "name": "viteapp",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "preact": "^10.5.15",
+    "preact-router": "^4.0.1",
+    "react-router-dom": "^6.3.0",
+    "socket.io-client": "^4.4.1",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.1.5",
+    "vite": "^2.9.0"
+  }
+}
